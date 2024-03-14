@@ -83,4 +83,4 @@ function View() {
   )
 }
 
-export default Viewgit
+export default View
